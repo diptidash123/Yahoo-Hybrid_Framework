@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[start excecution]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18440" started-at="2020-05-31T14:03:21Z" finished-at="2020-05-31T14:03:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18440" started-at="2020-05-31T14:03:21Z" finished-at="2020-05-31T14:03:39Z">
+      <class name="test.Testclassyahoo">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:test.Testclassyahoo@20e2cbe0]" name="openbrowser" is-config="true" duration-ms="8933" started-at="2020-05-31T19:33:21Z" finished-at="2020-05-31T19:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="start()[pri:0, instance:test.Testclassyahoo@20e2cbe0]" name="start" is-config="true" duration-ms="1" started-at="2020-05-31T19:33:30Z" finished-at="2020-05-31T19:33:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[start excecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="save()[pri:0, instance:test.Testclassyahoo@20e2cbe0]" name="save" duration-ms="9457" started-at="2020-05-31T19:33:30Z" finished-at="2020-05-31T19:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.Testclassyahoo@20e2cbe0]" name="closebrowser" is-config="true" duration-ms="0" started-at="2020-05-31T19:33:39Z" finished-at="2020-05-31T19:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.Testclassyahoo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
